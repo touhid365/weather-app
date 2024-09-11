@@ -1,0 +1,53 @@
+/* weather.css */
+
+.weather-card {
+    background-color: #ffffff; /* White background for the card */
+    border: 1px solid #dee2e6; /* Light border color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    padding: 20px;
+    text-align: center; /* Center text */
+  }
+  
+  .weather-loading {
+    font-size: 20px;
+    color: #007bff; /* Bootstrap primary color */
+    text-align: center; /* Center text */
+  }
+  
+  .weather-error {
+    font-size: 20px;
+    color: #dc3545; /* Bootstrap danger color (red) */
+    text-align: center; /* Center text */
+  }
+  
+  .weather-info {
+    color: #343a40; /* Dark gray text color */
+  }
+  
+  .weather-details p {
+    margin: 0.5rem 0;
+    color: #495057; /* Bootstrap text-secondary color */
+  }
+  
+  .weather-icon {
+    width: 100px;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  /* Button colors */
+  .weather-input .btn-primary {
+    background-color: #28a745; /* Bootstrap success color (green) */
+    border-color: #28a745; /* Bootstrap success color (green) */
+  }
+  
+  .weather-input .btn-primary:hover {
+    background-color: #218838; /* Darker green for hover */
+    border-color: #1e7e34; /* Darker green border on hover */
+  }
+  
