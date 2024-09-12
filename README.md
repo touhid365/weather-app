@@ -1,4 +1,4 @@
-## Welcome to Weather App 
+## Welcome to
 # Weather App
 
 A simple weather app that provides real-time weather data for any location using the OpenWeatherMap API.
@@ -12,7 +12,7 @@ A simple weather app that provides real-time weather data for any location using
 
 ## Demo
 
-[Live Demo](https://your-demo-url.com) (Replace this with your demo URL if available)
+[Live Demo](https://your-demo-url.com) 
 
 ## Installation
 
