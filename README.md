@@ -60,18 +60,7 @@ A simple weather app that provides real-time weather data for any location using
  Created by Touhid - feel free to contact me!
 
     
-### Breakdown of Sections:
 
-1. **Title and Introduction**: Brief description of what the app does.
-2. **Features**: List the key features of the app.
-3. **Demo**: A link to the live demo (optional).
-4. **Installation Instructions**: Steps to get the app up and running.
-5. **Usage**: How to use the app once it's set up.
-6. **Technologies Used**: List of tools and technologies you used to build the app.
-7. **Screenshots**: A screenshot of the app to give users a visual understanding (replace with your own image URL).
-8. **Contributing**: Instructions on how others can contribute to your project.
-9. **License**: Information about the license under which the app is distributed.
-10. **Contact**: Your GitHub or personal contact info.
 
 You can edit and customize this `README.md` file as per your project details.
 
